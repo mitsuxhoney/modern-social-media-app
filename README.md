@@ -19,7 +19,7 @@ Our social media app goes beyond the conventional by implementing infinite scrol
 
 ## Live Demo
 
-Check out the live demo [here](https://modern-social-media.app.vercel.app).
+Check out the live demo [here](https://modern-social-media-app.vercel.app).
 
 ## Getting Started
 
@@ -47,29 +47,20 @@ npm install
 
 ### Set Up Appwrite Backend
 
-Visit Appwrite and create an account.
-Create a new project and note the Project ID.
-Create a new API key in the API Keys section of your Appwrite project.
-Copy the API endpoint and API key.
+Visit Appwrite and create an account. <br/>
+Create a new project and note the Project ID. <br/>
+Create a new API key in the API Keys section of your Appwrite project. <br/>
+Copy the API endpoint and API key. <br/>
 
-## License
+### Configure App
+Rename the .env.example file to .env. <br/>
+Open the .env file and replace the placeholder values with your Appwrite project details. <br/>
 
-Copyright (c) 2023 Harshit Adhikari
+### Run the App
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+Start the development server: <br/>
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+npm run dev
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+
+
