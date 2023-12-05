@@ -58,7 +58,7 @@ Open the .env file and replace the placeholder values with your Appwrite project
 
 ### Run the App
 
-Start the development server: <br/>
+Start the development server using: <br/>
 
 npm run dev
 
