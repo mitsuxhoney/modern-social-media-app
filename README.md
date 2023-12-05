@@ -35,7 +35,7 @@ Make sure you have the following installed on your machine:
 
 ### Clone the Repository
 
-git clone https://github.com/your-username/your-social-media-app.git
+git clone [https://github.com/your-username/your-social-media-app.git](https://github.com/mitsuxhoney/modern-social-media-app.git)
 
 ### Navigate to the project directory
 
